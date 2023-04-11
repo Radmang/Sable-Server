@@ -1,5 +1,5 @@
-# Xeros #
-Based on Ascend.
+# Sable #
+Based on Xeros (which is based on Ascend)
 
 ## Setup
 - Enable annotation processing for Lombok.
