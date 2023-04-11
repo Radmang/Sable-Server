@@ -1,4 +1,4 @@
-# Sable #
+# Sable PS 2023 #
 Based on Xeros (which is based on Ascend)
 
 ## Setup
