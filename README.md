@@ -2,6 +2,7 @@
 Based on Xeros (which is based on Ascend)
 
 ## Setup
+- Open folder as Intellij Project
 - Enable annotation processing for Lombok.
 - Create a config.yaml in the working directory with the server state: `server_state: DEBUG`.
 Debug will give you the developer rank on login and fill your bank with various items.
