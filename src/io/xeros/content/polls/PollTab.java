@@ -15,7 +15,9 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
+import com.google.gson.JsonElement;
 import com.google.gson.reflect.TypeToken;
+
 import io.xeros.Server;
 import io.xeros.model.entity.player.Player;
 import io.xeros.model.entity.player.Right;
@@ -36,11 +38,12 @@ public class PollTab {
      */
     public static void init() {
         try {
-            Path path = Paths.get(Server.getDataDirectory() + "/cfg/poll/polls_backup.json");
+            Path path = Paths.get(Server.getDataDirectory() + "/cfg/poll/poll.json");
             File file = path.toFile();
 
             JsonParser parser = new JsonParser();
             if (!file.exists()) {
+                System.out.println("R-ERROR: Couldn't find poll specified.");
                 return;
             }
 
@@ -75,14 +78,22 @@ public class PollTab {
         try {
             Path path = Paths.get(Server.getDataDirectory() + "/cfg/poll/poll.json");
             File file = path.toFile();
+            System.out.println("R-INFO: Path of poll: " + path); // TODO: fix polls not being read, it thinks file doesn't exist --Rad
+            System.out.println("R-INFO: File: " + file);
 
             JsonParser parser = new JsonParser();
             if (!file.exists()) {
+                System.out.println("R-ERROR: Couldn't find poll specified");
                 return;
             }
 
             Object obj = parser.parse(new FileReader(file));
+
+            if (1 == 1) {
+
+            }
             JsonObject jsonUpdates = (JsonObject) obj;
+
 
             Type listType = new TypeToken<Poll>() {
             }.getType();

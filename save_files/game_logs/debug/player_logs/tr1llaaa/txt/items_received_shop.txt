@@ -1,0 +1,18 @@
+[ShopBuyLog] [2023-04-12T16:29:22.7680645] Bought GameItem{name=Mithril seeds, id=299, amount=5} from Gambling Shop with id 130
+[ShopBuyLog] [2023-04-12T16:29:23.9666147] Bought GameItem{name=Mithril seeds, id=299, amount=5} from Gambling Shop with id 130
+[ShopBuyLog] [2023-04-12T16:54:28.4668376] Bought GameItem{name=Shadow wizard, id=30017, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:36.2670285] Bought GameItem{name=250,000 FoE Point Certificate, id=696, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:40.4670871] Bought GameItem{name=Faster clues (30 mins), id=24460, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:42.8670856] Bought GameItem{name=+25% Skilling pet rate (30 Mins), id=7968, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:44.0698209] Bought GameItem{name=2x Slayer Points Scroll, id=7629, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:46.468328] Bought GameItem{name=Corrupt beast, id=30020, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:47.0688669] Bought GameItem{name=Roc, id=30021, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:48.269206] Bought GameItem{name=Kratos, id=30022, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:48.8707408] Bought GameItem{name=Seren, id=23939, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:50.0693505] Bought GameItem{name=Postie Pete, id=30010, amount=5} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:50.6709138] Bought GameItem{name=Imp, id=30011, amount=5} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:51.8698168] Bought GameItem{name=Toucan, id=30012, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:53.0710653] Bought GameItem{name=Penguin King, id=30013, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:53.6708177] Bought GameItem{name=K'klik, id=30014, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:54.2729124] Bought GameItem{name=Shadow warrior, id=30015, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2023-04-12T16:54:55.4717755] Bought GameItem{name=Shadow archer, id=30016, amount=1} from Item Exchange Shop with id 171

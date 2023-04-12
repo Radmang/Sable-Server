@@ -1,0 +1,302 @@
+15:56:32.681 [GameThread] INFO  io.xeros.Server - Server state: DEBUG
+15:56:34.569 [GameThread] DEBUG i.x.m.e.p.migration.PlayerMigration - Loaded player migration version=1 description='example_migration'
+15:56:35.217 [GameThread] INFO  i.x.m.c.ControllerRepository - Loaded 7 controllers.
+15:56:35.525 [GameThread] INFO  i.x.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+15:56:35.991 [GameThread] INFO  io.xeros.model.definitions.ShopDef - Loaded 51 shops.
+15:56:36.082 [GameThread] INFO  io.xeros.model.definitions.NpcDef - Loaded 9474 npc definitions.
+15:56:36.179 [GameThread] DEBUG i.x.m.c.impl.LeaderboardUpdateEvent - Loaded serialized start of day as 2023-04-11T00:00-04:00[America/New_York]
+15:56:47.341 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3094, y=3501, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.349 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3095, y=3501, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.349 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10042, x=3077, y=3502, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.350 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3806, y=2835, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.350 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10583, x=3186, y=3436, height=1, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.350 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=30087, x=2494, y=5114, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.350 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3082, y=3507, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.350 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3286, y=4958, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.350 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3279, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3306, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3306, y=4951, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3281, y=4943, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3168, y=4961, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3153, y=4974, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3178, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3155, y=4945, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3180, y=4945, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.351 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=29778, x=3298, y=5185, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26739, x=3430, y=4824, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=31925, x=3084, y=3490, height=0, face=4, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11376, x=3189, y=3932, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3221, y=3502, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3204, y=3503, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3208, y=3499, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=3786, y=3562, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=3812, y=2837, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.352 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2835, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2835, y=5109, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2834, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2836, y=5109, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2836, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10562, x=2837, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2231, x=3303, y=3951, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3384, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3383, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3382, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2845, y=5088, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.353 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2850, y=5088, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2445, y=5178, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2783, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2784, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2782, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=23709, x=2780, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3010, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3011, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3012, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3013, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.354 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3014, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.355 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3192, y=3925, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.355 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11373, x=3195, y=3935, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.355 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3193, y=3935, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.355 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3192, y=3927, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.355 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3194, y=3927, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.355 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3193, y=3926, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.355 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3194, y=3925, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.355 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3097, y=3481, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.356 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3097, y=3480, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.356 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=23709, x=3035, y=6068, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.356 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=3840, x=3001, y=3372, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.356 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11731, x=2958, y=3376, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.356 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=36201, x=3033, y=6065, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.356 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2205, y=3055, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.356 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10355, x=2536, y=4717, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.357 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10355, x=3016, y=5625, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.357 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=29879, x=3231, y=5729, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.357 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2959, y=3802, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.357 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3092, y=3488, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.357 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10439, x=3426, y=2930, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=635, x=3269, y=3410, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11730, x=2667, y=3310, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11731, x=2667, y=3303, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11732, x=2663, y=3296, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2933, y=4818, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=13287, x=3106, y=3479, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=3828, x=3227, y=3108, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=31624, x=2777, y=4847, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.358 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=36556, x=2783, y=4839, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.359 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10833, x=3012, y=3382, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.359 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=14402, x=3269, y=3166, height=3, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.359 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2656, y=2585, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.359 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2657, y=2585, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.359 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2656, y=2584, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.359 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2657, y=2584, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.359 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2643, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.359 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2643, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.360 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2642, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.360 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2642, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.360 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2670, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.360 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2670, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.360 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2671, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.360 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2671, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+15:56:47.360 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=32572, x=3109, y=3482, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:47.360 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=30087, x=3109, y=3483, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+15:56:48.132 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.197 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.257 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.317 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.377 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.436 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.475 [GameThread] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+15:56:48.477 [GameThread] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 24
+15:56:48.497 [GameThread] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+15:56:48.497 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.499 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+15:56:48.499 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - Java version: 13
+15:56:48.500 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+15:56:48.501 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+15:56:48.501 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+15:56:48.501 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - direct buffer constructor: available
+15:56:48.502 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+15:56:48.504 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
+java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @3c1badb1
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:376)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:642)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:559)
+	at io.netty.util.internal.PlatformDependent0$6.run(PlatformDependent0.java:300)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:312)
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:291)
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:202)
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:79)
+	at io.netty.util.ConstantPool.<init>(ConstantPool.java:32)
+	at io.netty.util.Signal$1.<init>(Signal.java:27)
+	at io.netty.util.Signal.<clinit>(Signal.java:27)
+	at io.netty.util.concurrent.DefaultPromise.<clinit>(DefaultPromise.java:43)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:36)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:58)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:47)
+	at io.netty.channel.MultithreadEventLoopGroup.<init>(MultithreadEventLoopGroup.java:59)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:77)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:72)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:59)
+	at io.xeros.Server.bindPorts(Server.java:268)
+	at io.xeros.Server.lambda$main$0(Server.java:184)
+	at io.xeros.GameThread.run(GameThread.java:84)
+15:56:48.504 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+15:56:48.504 [GameThread] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+15:56:48.512 [GameThread] DEBUG i.n.util.internal.PlatformDependent - maxDirectMemory: 4271898624 bytes (maybe)
+15:56:48.512 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\dento\AppData\Local\Temp (java.io.tmpdir)
+15:56:48.513 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+15:56:48.513 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+15:56:48.514 [GameThread] DEBUG i.n.util.internal.PlatformDependent - maxDirectMemory: 4271898624 bytes (maybe)
+15:56:48.514 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 4271898624 bytes
+15:56:48.514 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+15:56:48.514 [GameThread] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+15:56:48.524 [GameThread] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+15:56:48.524 [GameThread] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+15:56:48.529 [GameThread] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+15:56:48.558 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.620 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.680 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.742 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.801 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.850 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@52bcd119
+15:56:48.851 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@712109fe
+15:56:48.851 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@12237f22
+15:56:48.852 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2dc3dc75
+15:56:48.853 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@27812569
+15:56:48.853 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5e16b69e
+15:56:48.854 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@57451811
+15:56:48.854 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@645646f8
+15:56:48.855 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4ad28d76
+15:56:48.855 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@211b60f4
+15:56:48.856 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5ee17156
+15:56:48.857 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@8569df4
+15:56:48.857 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@563108b5
+15:56:48.858 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2cd7de47
+15:56:48.858 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@79e9614a
+15:56:48.859 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@456cfabe
+15:56:48.860 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.860 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1bc63606
+15:56:48.860 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@9f1f6df
+15:56:48.861 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3ba0259a
+15:56:48.862 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@19bb815a
+15:56:48.862 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@33e7f26d
+15:56:48.863 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3526bdc0
+15:56:48.864 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@f10d20b
+15:56:48.864 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4a6433e2
+15:56:48.867 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@456d79b3
+15:56:48.868 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@d0a63ba
+15:56:48.869 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6e8edbfa
+15:56:48.870 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@44669b87
+15:56:48.870 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6ae8c259
+15:56:48.871 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@34a17b0d
+15:56:48.872 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2ce83768
+15:56:48.872 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5ca23bd1
+15:56:48.873 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@70f4c016
+15:56:48.873 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4f32b416
+15:56:48.874 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@228c99ef
+15:56:48.874 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6fbd42dc
+15:56:48.875 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@391fdb4d
+15:56:48.876 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@63575a7c
+15:56:48.876 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@25d2f418
+15:56:48.877 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@207ce9dc
+15:56:48.877 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@67fe8b2d
+15:56:48.877 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3ea3a914
+15:56:48.879 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@ce3e8ec
+15:56:48.879 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4b96d2a5
+15:56:48.880 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@58229f19
+15:56:48.881 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7bea7600
+15:56:48.882 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@685d5519
+15:56:48.883 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@15a3a14d
+15:56:48.906 [GameThread] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 15892 (auto-detected)
+15:56:48.908 [GameThread] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+15:56:48.908 [GameThread] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+15:56:48.922 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:48.980 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.040 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.102 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.161 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.206 [GameThread] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+15:56:49.206 [GameThread] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+15:56:49.220 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.279 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.337 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.399 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.458 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.518 [GameThread] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+15:56:49.519 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:49.522 [GameThread] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+15:56:49.522 [GameThread] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+15:56:49.527 [GameThread] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+15:56:49.528 [GameThread] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+15:56:56.835 [pool-8-thread-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 32768
+15:56:56.835 [pool-8-thread-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+15:56:56.835 [pool-8-thread-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+15:56:56.835 [pool-8-thread-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+15:56:56.841 [pool-8-thread-1] DEBUG i.n.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@593262bd
+15:56:56.891 [pool-8-thread-1] DEBUG io.xeros.net.login.RS2LoginProtocol - Player Rad has no pending captcha.
+15:56:56.951 [pool-8-thread-1] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:56:56.951 [pool-8-thread-1] DEBUG io.xeros.net.login.RS2LoginProtocol - Set "rad" display name to "Rad".
+15:56:56.954 [pool-8-thread-1] INFO  io.xeros.net.login.RS2LoginProtocol - Player login queued [name=Rad, mac=0C-9D-92-76-49-EE, ip=127.0.0.1:61909, time=74ms]
+15:56:57.366 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@7eef6b30
+15:57:18.989 [GameThread] INFO  io.xeros.GameThread - Status [runtime=0m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=316.5 MB/873 MB]
+15:57:38.710 [pool-8-thread-2] DEBUG io.xeros.net.login.RS2LoginProtocol - Player tr1llaaa has no pending captcha.
+15:57:38.783 [pool-8-thread-2] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+15:57:38.783 [pool-8-thread-2] DEBUG io.xeros.net.login.RS2LoginProtocol - Set "tr1llaaa" display name to "tr1llaaa".
+15:57:38.783 [pool-8-thread-2] INFO  io.xeros.net.login.RS2LoginProtocol - Player login queued [name=tr1llaaa, mac=D0-37-45-E3-9C-C0, ip=26.52.161.80:53095, time=80ms]
+15:57:38.786 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@7eef6b30
+15:57:38.790 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1llaaa on rad friends list.
+15:57:48.993 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=511.5 MB/873 MB]
+15:58:19.008 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=319.6 MB/873 MB]
+15:58:49.021 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=508.5 MB/873 MB]
+15:59:19.039 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=696.5 MB/873 MB]
+15:59:49.050 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=468.7 MB/873 MB]
+16:00:19.068 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=655 MB/873 MB]
+16:00:49.111 [GameThread] INFO  io.xeros.GameThread - Status [runtime=4m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=419 MB/873 MB]
+16:01:19.206 [GameThread] INFO  io.xeros.GameThread - Status [runtime=4m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=607.5 MB/873 MB]
+16:01:49.210 [GameThread] INFO  io.xeros.GameThread - Status [runtime=5m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=362.1 MB/873 MB]
+16:02:19.219 [GameThread] INFO  io.xeros.GameThread - Status [runtime=5m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=548.5 MB/873 MB]
+16:02:49.382 [GameThread] INFO  io.xeros.GameThread - Status [runtime=6m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=736.5 MB/873 MB]
+16:03:19.403 [GameThread] INFO  io.xeros.GameThread - Status [runtime=6m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=489.1 MB/873 MB]
+16:03:49.425 [GameThread] INFO  io.xeros.GameThread - Status [runtime=7m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=676.5 MB/873 MB]
+16:04:19.443 [GameThread] INFO  io.xeros.GameThread - Status [runtime=7m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=419.1 MB/873 MB]
+16:04:49.457 [GameThread] INFO  io.xeros.GameThread - Status [runtime=8m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=605.5 MB/873 MB]
+16:05:19.466 [GameThread] INFO  io.xeros.GameThread - Status [runtime=8m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=348 MB/873 MB]
+16:05:49.652 [GameThread] INFO  io.xeros.GameThread - Status [runtime=9m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=534.4 MB/873 MB]
+16:06:19.843 [GameThread] INFO  io.xeros.GameThread - Status [runtime=9m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=720.9 MB/873 MB]
+16:06:49.901 [GameThread] INFO  io.xeros.GameThread - Status [runtime=10m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=463.9 MB/873 MB]
+16:07:20.038 [GameThread] INFO  io.xeros.GameThread - Status [runtime=10m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=651.9 MB/873 MB]
+16:07:50.188 [GameThread] INFO  io.xeros.GameThread - Status [runtime=11m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=396 MB/873 MB]
+16:08:20.200 [GameThread] INFO  io.xeros.GameThread - Status [runtime=11m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=581.5 MB/873 MB]
+16:08:50.216 [GameThread] INFO  io.xeros.GameThread - Status [runtime=12m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=328.1 MB/873 MB]
+16:09:20.227 [GameThread] INFO  io.xeros.GameThread - Status [runtime=12m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=513.6 MB/873 MB]
+16:09:50.238 [GameThread] INFO  io.xeros.GameThread - Status [runtime=13m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=700 MB/873 MB]
+16:10:20.259 [GameThread] INFO  io.xeros.GameThread - Status [runtime=13m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=442 MB/873 MB]
+16:10:50.274 [GameThread] INFO  io.xeros.GameThread - Status [runtime=14m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=627.4 MB/873 MB]
+16:11:20.279 [GameThread] INFO  io.xeros.GameThread - Status [runtime=14m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=368.9 MB/873 MB]
+16:11:50.288 [GameThread] INFO  io.xeros.GameThread - Status [runtime=15m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=554.4 MB/873 MB]
+16:12:20.297 [GameThread] INFO  io.xeros.GameThread - Status [runtime=15m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=740.4 MB/873 MB]
+16:12:50.309 [GameThread] INFO  io.xeros.GameThread - Status [runtime=16m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=483.9 MB/873 MB]
+16:13:20.380 [GameThread] INFO  io.xeros.GameThread - Status [runtime=16m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=686.3 MB/873 MB]
+16:13:50.392 [GameThread] INFO  io.xeros.GameThread - Status [runtime=17m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=423.7 MB/873 MB]
+16:14:20.431 [GameThread] INFO  io.xeros.GameThread - Status [runtime=17m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=609.2 MB/873 MB]
+16:14:50.479 [GameThread] INFO  io.xeros.GameThread - Status [runtime=18m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=335 MB/873 MB]
+16:15:20.549 [GameThread] INFO  io.xeros.GameThread - Status [runtime=18m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=521.5 MB/873 MB]
+16:15:50.578 [GameThread] INFO  io.xeros.GameThread - Status [runtime=19m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=707.5 MB/873 MB]
+16:16:20.587 [GameThread] INFO  io.xeros.GameThread - Status [runtime=19m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=429.4 MB/873 MB]
+16:16:50.604 [GameThread] INFO  io.xeros.GameThread - Status [runtime=20m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=615.5 MB/873 MB]
+16:17:20.616 [GameThread] INFO  io.xeros.GameThread - Status [runtime=20m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=341.5 MB/873 MB]
+16:17:50.628 [GameThread] INFO  io.xeros.GameThread - Status [runtime=21m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=537 MB/873 MB]
+16:18:20.635 [GameThread] INFO  io.xeros.GameThread - Status [runtime=21m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=730 MB/873 MB]
+16:18:50.655 [GameThread] INFO  io.xeros.GameThread - Status [runtime=22m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=462.5 MB/873 MB]
+16:19:20.666 [GameThread] INFO  io.xeros.GameThread - Status [runtime=22m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=649.9 MB/873 MB]
+16:19:50.678 [GameThread] INFO  io.xeros.GameThread - Status [runtime=23m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=374.5 MB/873 MB]
+16:20:20.698 [GameThread] INFO  io.xeros.GameThread - Status [runtime=23m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=562 MB/873 MB]
+16:20:50.708 [GameThread] INFO  io.xeros.GameThread - Status [runtime=24m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=749.5 MB/873 MB]
+16:21:20.721 [GameThread] INFO  io.xeros.GameThread - Status [runtime=24m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=474 MB/873 MB]
+16:21:50.740 [GameThread] INFO  io.xeros.GameThread - Status [runtime=25m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=660 MB/873 MB]
+16:22:20.756 [GameThread] INFO  io.xeros.GameThread - Status [runtime=25m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=384 MB/873 MB]
+16:22:50.819 [GameThread] INFO  io.xeros.GameThread - Status [runtime=26m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=581 MB/873 MB]
+16:23:20.840 [GameThread] INFO  io.xeros.GameThread - Status [runtime=26m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=318 MB/873 MB]
+16:23:50.854 [GameThread] INFO  io.xeros.GameThread - Status [runtime=27m, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=503.5 MB/873 MB]
+16:24:20.868 [GameThread] INFO  io.xeros.GameThread - Status [runtime=27m 30s, connections=2, players=2, uniques=2, npcs=3296, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=690.1 MB/873 MB]
+16:24:50.883 [GameThread] INFO  io.xeros.GameThread - Status [runtime=28m, connections=2, players=2, uniques=2, npcs=3293, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=412 MB/873 MB]
+16:25:20.899 [GameThread] INFO  io.xeros.GameThread - Status [runtime=28m 30s, connections=2, players=2, uniques=2, npcs=3293, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=599 MB/873 MB]
