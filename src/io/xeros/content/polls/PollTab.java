@@ -88,10 +88,6 @@ public class PollTab {
             }
 
             Object obj = parser.parse(new FileReader(file));
-
-            if (1 == 1) {
-
-            }
             JsonObject jsonUpdates = (JsonObject) obj;
 
 
