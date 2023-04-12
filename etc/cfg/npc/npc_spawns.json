@@ -1051,11 +1051,11 @@
   {
     "id": 1013,
     "position": {
-      "x": 3371,
-      "y": 3269,
+      "x": 3094,
+      "y": 3507,
       "height": 0
     },
-    "walkingType": "FACE_SOUTH"
+    "walkingType": "FACE_EAST"
   },
   {
     "id": 1013,
@@ -7955,8 +7955,8 @@
   {
     "id": 5514,
     "position": {
-      "x": 3121,
-      "y": 3516,
+      "x": 3099,
+      "y": 3492,
       "height": 0
     },
     "walkingType": "WALK"
@@ -20972,11 +20972,11 @@
   {
     "id": 2850,
     "position": {
-      "x": 3090,
-      "y": 3501,
+      "x": 3102,
+      "y": 3494,
       "height": 0
     },
-    "walkingType": "WALK"
+    "walkingType": "FACE_SOUTH"
   },
   {
     "id": 1377,
