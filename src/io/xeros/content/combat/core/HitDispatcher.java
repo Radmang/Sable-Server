@@ -567,7 +567,7 @@ public abstract class HitDispatcher {
         }
     }
 
-    private void dropArrow(int arrowId) { // TODO delete arrows from player
+    private void dropArrow(int arrowId) { // TODO delete arrows from player -> Need to look into whether this is already working or not -- Tr1lla
         if (Boundary.OUTLAST.in(attacker))
             return;
         if (attacker.getItems().isWearingItem(10033) || attacker.getItems().isWearingItem(10034)

@@ -271,11 +271,11 @@ public class Boundary {
 	public static final Boundary CRYSTAL_CAVE_ENTRANCE = new Boundary(3268, 6050, 3278, 6056);
 	public static final Boundary CRYSTAL_CAVE_AREA = new Boundary(3131, 12346, 3265, 12482);
 
-	public static final Boundary FLOWER_POKER_AREA = new Boundary(3109, 3504, 3121, 3515);
-	public static final Boundary FP_LANE_1 = new Boundary(3110, 3510, 3111, 3514);
-	public static final Boundary FP_LANE_2 = new Boundary(3113, 3510, 3114, 3514);
-	public static final Boundary FP_LANE_3 = new Boundary(3116, 3510, 3117, 3514);
-	public static final Boundary FP_LANE_4 = new Boundary(3119, 3510, 3120, 3514);
+	public static final Boundary FLOWER_POKER_AREA = new Boundary(3096, 3506, 3110, 3516);
+	public static final Boundary FP_LANE_1 = new Boundary(3096, 3512, 3097, 3516);
+	public static final Boundary FP_LANE_2 = new Boundary(3098, 3512, 3099, 3516);
+	public static final Boundary FP_LANE_3 = new Boundary(3100, 3512, 3101, 3516);
+	public static final Boundary FP_LANE_4 = new Boundary(3102, 3512, 3103, 3516);
 	public static final Boundary[] FP_LANES = {FP_LANE_1, FP_LANE_2, FP_LANE_3, FP_LANE_4};
 	public static final Boundary MAGE_ARENA = new Boundary(3092, 3912, 3117, 3954);
 	/**

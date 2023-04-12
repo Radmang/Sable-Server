@@ -684,7 +684,7 @@ public class Listing {
 			saleItem = def.getNoteId();
 		}
 
-		if(c.getItems().freeSlots() < slotsNeeded && (!ItemDef.forId(sales.getId()+1).isNoted() && !ItemDef.forId(sales.getId()).isStackable())) {// TODO sort this, why is there a +1
+		if(c.getItems().freeSlots() < slotsNeeded && (!ItemDef.forId(sales.getId()+1).isNoted() && !ItemDef.forId(sales.getId()).isStackable())) {//	Gets item id and noted version id with sales.getId()+1)
 			c.sendMessage("[@red@Trading Post@bla@] You need at least "+ slotsNeeded +" free slots to buy this.");
 			return;
 		}
