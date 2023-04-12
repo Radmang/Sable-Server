@@ -56,9 +56,12 @@ public class PollTab {
             polls = new Gson().fromJson(jsonUpdates, listType);
             if (polls.size() > 0) { //Grab the most recent one, and if its active start using it
                 Poll lastPoll = polls.get(polls.size() - 1);
+                System.out.println("RAD-INFO: Poll size: " + polls.size());
                 if (isPollActive(lastPoll)) {
                     poll = lastPoll;
+                    System.out.println("RAD-INFO: POLL ACTIVE");
                 } else {
+                    System.out.println("RAD-INFO: POLL INACTIVE");
                     poll = new Poll("", 0, 0, new ArrayList<>(), new ArrayList<>(), new ArrayList<>(), System.currentTimeMillis(), Right.PLAYER);
                 }
             } else {
@@ -116,20 +119,20 @@ public class PollTab {
      * @param player
      */
     public static void updateTabIcon(Player player) {
-//        if (poll == null || !isPollActive(poll) || poll.getQuestion().equalsIgnoreCase("")) {
-//            player.getPA().sendFrame126(":pollOn-false", 21406);
-//        } else {
-//            player.getPA().sendFrame126(":pollOn-true", 21406);
-//        }
+        if (poll == null || !isPollActive(poll) || poll.getQuestion().equalsIgnoreCase("")) {
+            player.getPA().sendFrame126(":pollOn-false", 21406);
+        } else {
+            player.getPA().sendFrame126(":pollOn-true", 21406);
+        }
     }
 
     public static void updatePollTabDisplay(Player player) {
-//        if (isPollActive(getPoll())) {
-//            player.setSidebarInterface(13, 21406);
-//            player.sendMessage("@red@A poll is running, be sure to vote!");
-//        } else {
-//            player.setSidebarInterface(13, 0);
-//        }
+        if (isPollActive(getPoll())) {
+            player.setSidebarInterface(13, 21406);
+            player.sendMessage("@red@A poll is running, be sure to vote!");
+        } else {
+            player.setSidebarInterface(13, 0);
+        }
     }
 
     /**

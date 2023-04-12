@@ -58,10 +58,10 @@ public class FlowerPokerHand {
     private static Set<Integer> lanes = new HashSet<>();
 
     public static List<Position> positions = Arrays.asList(
-            new Position(3110, 3510, 0),
-            new Position(3113, 3510, 0),
-            new Position(3116, 3510, 0),
-            new Position(3119, 3510, 0));
+            new Position(3096, 3512, 0),
+            new Position(3098, 3512, 0),
+            new Position(3100, 3512, 0),
+            new Position(3102, 3512, 0));
 
     public static boolean canGamble() {
         return lanes.size() <= 3;

@@ -1,6 +1,6 @@
 [
   {
-    "question": "Rad's Test Question!",
+    "question": "rads new question",
     "hours": 9999,
     "totalVotes": 0,
     "answers": [
@@ -14,13 +14,12 @@
       0
     ],
     "voters": [
-      "test for owners"
+      ""
     ],
-    "startTime": 1681279200011,
-    "right": "PLAYER"
+    "startTime": 1681279200011
   },
   {
-    "question": "other question",
+    "question": "hidden from everyone but admins",
     "hours": 9999,
     "totalVotes": 0,
     "answers": [
@@ -34,7 +33,7 @@
       0
     ],
     "voters": [
-      "ya mum"
+      ""
     ],
     "startTime": 1681279200011
   }
