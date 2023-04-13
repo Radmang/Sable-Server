@@ -1,4 +1,4 @@
-package io.xeros.content.polls;
+package io.sable.content.polls;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -18,9 +18,9 @@ import com.google.gson.JsonParser;
 import com.google.gson.JsonElement;
 import com.google.gson.reflect.TypeToken;
 
-import io.xeros.Server;
-import io.xeros.model.entity.player.Player;
-import io.xeros.model.entity.player.Right;
+import io.sable.Server;
+import io.sable.model.entity.player.Player;
+import io.sable.model.entity.player.Right;
 
 /**
  * @author Grant_ | www.rune-server.ee/members/grant_ | 2/10/20
@@ -38,7 +38,7 @@ public class PollTab {
      */
     public static void init() {
         try {
-            Path path = Paths.get(Server.getDataDirectory() + "/cfg/poll/poll.json");
+            Path path = Paths.get(Server.getDataDirectory() + "/cfg/poll/polls_backup.json");
             File file = path.toFile();
 
             JsonParser parser = new JsonParser();
