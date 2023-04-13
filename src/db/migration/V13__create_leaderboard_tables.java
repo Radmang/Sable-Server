@@ -1,8 +1,8 @@
 package db.migration;
 
-import io.xeros.sql.leaderboard.LeaderboardsCollectionBoxTable;
-import io.xeros.sql.leaderboard.LeaderboardsRewardsTable;
-import io.xeros.sql.leaderboard.LeaderboardsTable;
+import io.sable.sql.leaderboard.LeaderboardsCollectionBoxTable;
+import io.sable.sql.leaderboard.LeaderboardsRewardsTable;
+import io.sable.sql.leaderboard.LeaderboardsTable;
 import org.flywaydb.core.api.migration.BaseJavaMigration;
 import org.flywaydb.core.api.migration.Context;
 

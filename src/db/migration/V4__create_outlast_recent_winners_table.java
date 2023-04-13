@@ -1,6 +1,6 @@
 package db.migration;
 
-import io.xeros.sql.outlast.OutlastRecentWinnersTable;
+import io.sable.sql.outlast.OutlastRecentWinnersTable;
 import org.flywaydb.core.api.migration.BaseJavaMigration;
 import org.flywaydb.core.api.migration.Context;
 

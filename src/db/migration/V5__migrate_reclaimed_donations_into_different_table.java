@@ -1,6 +1,6 @@
 package db.migration;
 
-import io.xeros.Server;
+import io.sable.Server;
 import org.flywaydb.core.api.migration.BaseJavaMigration;
 import org.flywaydb.core.api.migration.Context;
 
