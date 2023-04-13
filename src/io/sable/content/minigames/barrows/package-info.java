@@ -1,0 +1,1 @@
+package io.sable.content.minigames.barrows;
