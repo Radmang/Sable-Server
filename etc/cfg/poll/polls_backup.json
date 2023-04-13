@@ -249,7 +249,7 @@
   {
     "question": "Rad\u0027s Question | Testing | Him",
     "hours": 100,
-    "totalVotes": 1,
+    "totalVotes": 2,
     "answers": [
       "Answer 1",
       "Answer 2",
@@ -257,11 +257,12 @@
     ],
     "votes": [
       1,
-      0,
+      1,
       0
     ],
     "voters": [
-      "rad"
+      "rad",
+      "tr1lla"
     ],
     "startTime": 1681293117129,
     "right": "PLAYER"

@@ -1,0 +1,711 @@
+20:26:35.561 [GameThread] INFO  io.xeros.Server - Server state: DEBUG
+20:26:37.452 [GameThread] DEBUG i.x.m.e.p.migration.PlayerMigration - Loaded player migration version=1 description='example_migration'
+20:26:38.053 [GameThread] INFO  i.x.m.c.ControllerRepository - Loaded 7 controllers.
+20:26:38.362 [GameThread] INFO  i.x.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+20:26:38.905 [GameThread] INFO  io.xeros.model.definitions.ShopDef - Loaded 51 shops.
+20:26:39.006 [GameThread] INFO  io.xeros.model.definitions.NpcDef - Loaded 9474 npc definitions.
+20:26:39.097 [GameThread] DEBUG i.x.m.c.impl.LeaderboardUpdateEvent - Loaded serialized start of day as 2023-04-11T00:00-04:00[America/New_York]
+20:26:50.716 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3094, y=3501, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.722 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3095, y=3501, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.723 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10042, x=3077, y=3502, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.723 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3806, y=2835, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.723 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10583, x=3186, y=3436, height=1, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.723 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=30087, x=2494, y=5114, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.723 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3082, y=3507, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.723 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3286, y=4958, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.723 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3279, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3306, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3306, y=4951, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3281, y=4943, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3168, y=4961, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3153, y=4974, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3178, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3155, y=4945, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3180, y=4945, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=29778, x=3298, y=5185, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.724 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=26739, x=3430, y=4824, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=31925, x=3084, y=3490, height=0, face=4, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11376, x=3189, y=3932, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3221, y=3502, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3204, y=3503, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3208, y=3499, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=3786, y=3562, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=3812, y=2837, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2835, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2835, y=5109, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2834, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.725 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2836, y=5109, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2836, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10562, x=2837, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2231, x=3303, y=3951, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3384, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3383, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3382, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2845, y=5088, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2850, y=5088, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2445, y=5178, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2783, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2784, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.726 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2782, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=23709, x=2780, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3010, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3011, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3012, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3013, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3014, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3192, y=3925, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11373, x=3195, y=3935, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3193, y=3935, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3192, y=3927, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3194, y=3927, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.727 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3193, y=3926, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.728 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3194, y=3925, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.728 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3097, y=3481, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.728 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3097, y=3480, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.728 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=23709, x=3035, y=6068, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.728 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=3840, x=3001, y=3372, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.729 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11731, x=2958, y=3376, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.729 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=36201, x=3033, y=6065, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.729 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2205, y=3055, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.729 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10355, x=2536, y=4717, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.729 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10355, x=3016, y=5625, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.729 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=29879, x=3231, y=5729, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.729 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2959, y=3802, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.729 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3092, y=3488, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10439, x=3426, y=2930, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=635, x=3269, y=3410, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11730, x=2667, y=3310, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11731, x=2667, y=3303, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=11732, x=2663, y=3296, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2933, y=4818, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=13287, x=3106, y=3479, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=3828, x=3227, y=3108, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=31624, x=2777, y=4847, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.730 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=36556, x=2783, y=4839, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.731 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=10833, x=3012, y=3382, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.732 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=14402, x=3269, y=3166, height=3, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.732 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2656, y=2585, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.732 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2657, y=2585, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.732 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2656, y=2584, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.732 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2657, y=2584, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.732 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2643, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.733 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2643, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.733 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2642, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.733 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2642, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.733 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2670, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.733 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2670, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.733 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2671, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.733 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2671, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+20:26:50.734 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=32572, x=3109, y=3482, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:50.734 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=30087, x=3109, y=3483, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+20:26:51.470 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:51.533 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:51.594 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:51.653 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:51.713 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:51.771 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:51.799 [GameThread] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+20:26:51.800 [GameThread] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 24
+20:26:51.813 [GameThread] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+20:26:51.814 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+20:26:51.815 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - Java version: 13
+20:26:51.815 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+20:26:51.816 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+20:26:51.816 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+20:26:51.816 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - direct buffer constructor: available
+20:26:51.817 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+20:26:51.819 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
+java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @21aec43d
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:376)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:642)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:559)
+	at io.netty.util.internal.PlatformDependent0$6.run(PlatformDependent0.java:300)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:312)
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:291)
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:202)
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:79)
+	at io.netty.util.ConstantPool.<init>(ConstantPool.java:32)
+	at io.netty.util.Signal$1.<init>(Signal.java:27)
+	at io.netty.util.Signal.<clinit>(Signal.java:27)
+	at io.netty.util.concurrent.DefaultPromise.<clinit>(DefaultPromise.java:43)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:36)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:58)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:47)
+	at io.netty.channel.MultithreadEventLoopGroup.<init>(MultithreadEventLoopGroup.java:59)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:77)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:72)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:59)
+	at io.xeros.Server.bindPorts(Server.java:268)
+	at io.xeros.Server.lambda$main$0(Server.java:184)
+	at io.xeros.GameThread.run(GameThread.java:84)
+20:26:51.819 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+20:26:51.819 [GameThread] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+20:26:51.828 [GameThread] DEBUG i.n.util.internal.PlatformDependent - maxDirectMemory: 4271898624 bytes (maybe)
+20:26:51.829 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\dento\AppData\Local\Temp (java.io.tmpdir)
+20:26:51.829 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+20:26:51.829 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+20:26:51.830 [GameThread] DEBUG i.n.util.internal.PlatformDependent - maxDirectMemory: 4271898624 bytes (maybe)
+20:26:51.830 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 4271898624 bytes
+20:26:51.830 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+20:26:51.830 [GameThread] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+20:26:51.832 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:51.841 [GameThread] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+20:26:51.841 [GameThread] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+20:26:51.848 [GameThread] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+20:26:51.893 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:51.954 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.014 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.075 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.139 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.188 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5778e83c
+20:26:52.189 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7e8e3634
+20:26:52.190 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@15c5637c
+20:26:52.191 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@197143eb
+20:26:52.191 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4c5d96de
+20:26:52.192 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@43ed26f7
+20:26:52.192 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7d8d7375
+20:26:52.193 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6ef01934
+20:26:52.194 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4e3b8952
+20:26:52.194 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@64cbd4fc
+20:26:52.195 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@724b05cb
+20:26:52.195 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1c1c8b0f
+20:26:52.196 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@e7fe0c7
+20:26:52.197 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@34a9b9c0
+20:26:52.197 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1ee697c3
+20:26:52.198 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@665a33e3
+20:26:52.198 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@17d29e37
+20:26:52.199 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6e4c52b4
+20:26:52.199 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@44be8831
+20:26:52.200 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.200 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@73cc7e6e
+20:26:52.201 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@70ec7506
+20:26:52.201 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7c39505d
+20:26:52.202 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4cf6a0eb
+20:26:52.202 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5cd99815
+20:26:52.203 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4ca7f21b
+20:26:52.204 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1d81978
+20:26:52.204 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@61a50b1a
+20:26:52.205 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6b486e6c
+20:26:52.205 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@188c6e34
+20:26:52.206 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@59dea784
+20:26:52.207 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@106a8a7e
+20:26:52.207 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@38f9bd11
+20:26:52.208 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@437f99f4
+20:26:52.208 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6f31e498
+20:26:52.209 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2b4caa7a
+20:26:52.209 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5e288b37
+20:26:52.210 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@61a7093f
+20:26:52.210 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@15234b7
+20:26:52.211 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4f03419d
+20:26:52.211 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@55681a79
+20:26:52.212 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@cdf1f1a
+20:26:52.212 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1c3875ba
+20:26:52.213 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@49e2c009
+20:26:52.214 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5ccca09e
+20:26:52.214 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@289f53d2
+20:26:52.215 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@775576de
+20:26:52.215 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@28e802b5
+20:26:52.216 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@11998f66
+20:26:52.232 [GameThread] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 23404 (auto-detected)
+20:26:52.234 [GameThread] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+20:26:52.234 [GameThread] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+20:26:52.262 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.321 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.380 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.438 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.497 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.532 [GameThread] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+20:26:52.532 [GameThread] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+20:26:52.556 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.616 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.673 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.731 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.789 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.847 [GameThread] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+20:26:52.847 [io-worker-0] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:52.849 [GameThread] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+20:26:52.850 [GameThread] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+20:26:52.854 [GameThread] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+20:26:52.854 [GameThread] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+20:26:56.289 [pool-8-thread-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 32768
+20:26:56.289 [pool-8-thread-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+20:26:56.289 [pool-8-thread-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+20:26:56.289 [pool-8-thread-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+20:26:56.294 [pool-8-thread-1] DEBUG i.n.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1d851d8
+20:26:56.580 [pool-8-thread-1] DEBUG io.xeros.net.login.RS2LoginProtocol - Player tr1lla has no pending captcha.
+20:26:56.583 [pool-8-thread-1] DEBUG io.xeros.net.login.RS2LoginProtocol - Registered player[loginName=tr1lla, displayName=null, ip=26.52.161.80, mac=D0-37-45-E3-9C-C0, uuid=ad5bb12c-ec9e-4532-9bc9-98a33f1c3075]
+20:26:56.583 [pool-8-thread-1] INFO  io.xeros.net.login.RS2LoginProtocol - New player registered: tr1lla
+20:26:56.583 [pool-8-thread-1] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:26:56.583 [pool-8-thread-1] DEBUG io.xeros.net.login.RS2LoginProtocol - Set "tr1lla" display name to "tr1lla".
+20:26:56.588 [pool-8-thread-1] INFO  io.xeros.net.login.RS2LoginProtocol - Player login queued [name=tr1lla, mac=D0-37-45-E3-9C-C0, ip=26.52.161.80:61676, time=17ms]
+20:26:57.093 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@36d7460
+20:27:22.322 [GameThread] INFO  io.xeros.GameThread - Status [runtime=0m 30s, connections=1, players=1, uniques=1, npcs=3294, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=326.3 MB/723 MB]
+20:27:52.357 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1m, connections=1, players=1, uniques=1, npcs=3294, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=515.9 MB/723 MB]
+20:28:01.869 [pool-8-thread-2] DEBUG io.xeros.net.login.RS2LoginProtocol - Player Rad has no pending captcha.
+20:28:01.937 [pool-8-thread-2] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+20:28:01.937 [pool-8-thread-2] DEBUG io.xeros.net.login.RS2LoginProtocol - Set "rad" display name to "Rad".
+20:28:01.937 [pool-8-thread-2] INFO  io.xeros.net.login.RS2LoginProtocol - Player login queued [name=Rad, mac=0C-9D-92-76-49-EE, ip=127.0.0.1:57158, time=75ms]
+20:28:01.961 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@36d7460
+20:28:22.382 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=433.1 MB/723 MB]
+20:28:52.394 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=333.7 MB/723 MB]
+20:29:22.414 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=520.9 MB/723 MB]
+20:29:26.618 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - Assigned lane 0
+20:29:26.618 [player-save-0] DEBUG i.x.m.entity.player.save.PlayerSave - Saving game for player[loginName=tr1lla, displayName=tr1lla, ip=26.52.161.80, mac=D0-37-45-E3-9C-C0, uuid=ad5bb12c-ec9e-4532-9bc9-98a33f1c3075]
+20:29:26.678 [player-save-0] DEBUG i.x.m.entity.player.save.PlayerSave - Saving game for player[loginName=rad, displayName=Rad, ip=127.0.0.1, mac=0C-9D-92-76-49-EE, uuid=fae89258-5bf2-4952-8230-0fc8025d972d]
+20:29:29.619 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295370619  1681295369619 
+20:29:29.619 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2981, x=3096, y=3512, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:29.619 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295370619  1681295369619 
+20:29:29.619 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2982, x=3097, y=3512, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:31.420 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295372420  1681295371420 
+20:29:31.420 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2982, x=3096, y=3513, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:31.420 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295372420  1681295371420 
+20:29:31.421 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2983, x=3097, y=3513, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:33.222 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295374222  1681295373222 
+20:29:33.223 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2985, x=3096, y=3514, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:33.223 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295374223  1681295373223 
+20:29:33.223 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2982, x=3097, y=3514, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:35.023 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295376023  1681295375023 
+20:29:35.023 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2981, x=3096, y=3515, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:35.023 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295376023  1681295375023 
+20:29:35.023 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2986, x=3097, y=3515, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:36.823 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295377823  1681295376823 
+20:29:36.823 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2985, x=3096, y=3516, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:36.823 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - last plant1681295377823  1681295376823 
+20:29:36.824 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=2981, x=3097, y=3516, height=0, face=3, ticksRemaining=100, restoreId=-1, type=10, instance=null}
+20:29:38.623 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - B/W=false - B/WP=false
+20:29:41.627 [GameThread] DEBUG i.x.m.m.flowerpoker.FlowerPokerHand - Removed lane a=0 b=0
+20:29:52.435 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=412.6 MB/723 MB]
+20:30:22.438 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=605.4 MB/723 MB]
+20:30:52.455 [GameThread] INFO  io.xeros.GameThread - Status [runtime=4m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=495.2 MB/723 MB]
+20:31:22.467 [GameThread] INFO  io.xeros.GameThread - Status [runtime=4m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=380.3 MB/723 MB]
+20:31:52.490 [GameThread] INFO  io.xeros.GameThread - Status [runtime=5m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=572.8 MB/723 MB]
+20:32:22.499 [GameThread] INFO  io.xeros.GameThread - Status [runtime=5m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=457 MB/723 MB]
+20:32:52.513 [GameThread] INFO  io.xeros.GameThread - Status [runtime=6m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=337.3 MB/723 MB]
+20:33:22.530 [GameThread] INFO  io.xeros.GameThread - Status [runtime=6m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=532.8 MB/723 MB]
+20:33:52.539 [GameThread] INFO  io.xeros.GameThread - Status [runtime=7m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=417 MB/723 MB]
+20:34:22.557 [GameThread] INFO  io.xeros.GameThread - Status [runtime=7m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=607.5 MB/723 MB]
+20:34:52.586 [GameThread] INFO  io.xeros.GameThread - Status [runtime=8m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=514.6 MB/723 MB]
+20:35:22.607 [GameThread] INFO  io.xeros.GameThread - Status [runtime=8m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=409.6 MB/723 MB]
+20:35:52.618 [GameThread] INFO  io.xeros.GameThread - Status [runtime=9m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=606.6 MB/723 MB]
+20:36:22.628 [GameThread] INFO  io.xeros.GameThread - Status [runtime=9m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=483.5 MB/723 MB]
+20:36:52.640 [GameThread] INFO  io.xeros.GameThread - Status [runtime=10m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=363.7 MB/723 MB]
+20:37:22.656 [GameThread] INFO  io.xeros.GameThread - Status [runtime=10m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=557.7 MB/723 MB]
+20:37:52.670 [GameThread] INFO  io.xeros.GameThread - Status [runtime=11m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=435.5 MB/723 MB]
+20:38:22.688 [GameThread] INFO  io.xeros.GameThread - Status [runtime=11m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=630 MB/723 MB]
+20:38:52.698 [GameThread] INFO  io.xeros.GameThread - Status [runtime=12m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=498.8 MB/723 MB]
+20:39:22.708 [GameThread] INFO  io.xeros.GameThread - Status [runtime=12m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=360.9 MB/723 MB]
+20:39:52.717 [GameThread] INFO  io.xeros.GameThread - Status [runtime=13m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=550.4 MB/723 MB]
+20:40:22.734 [GameThread] INFO  io.xeros.GameThread - Status [runtime=13m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=411.7 MB/723 MB]
+20:40:52.751 [GameThread] INFO  io.xeros.GameThread - Status [runtime=14m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=599.7 MB/723 MB]
+20:41:22.767 [GameThread] INFO  io.xeros.GameThread - Status [runtime=14m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=459.3 MB/723 MB]
+20:41:52.786 [GameThread] INFO  io.xeros.GameThread - Status [runtime=15m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=320.8 MB/723 MB]
+20:42:22.798 [GameThread] INFO  io.xeros.GameThread - Status [runtime=15m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=511.8 MB/723 MB]
+20:42:52.807 [GameThread] INFO  io.xeros.GameThread - Status [runtime=16m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=370.3 MB/723 MB]
+20:43:22.817 [GameThread] INFO  io.xeros.GameThread - Status [runtime=16m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=556.8 MB/723 MB]
+20:43:52.827 [GameThread] INFO  io.xeros.GameThread - Status [runtime=17m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=414.8 MB/723 MB]
+20:44:22.837 [GameThread] INFO  io.xeros.GameThread - Status [runtime=17m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=601.3 MB/723 MB]
+20:44:52.847 [GameThread] INFO  io.xeros.GameThread - Status [runtime=18m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=459.8 MB/723 MB]
+20:45:22.860 [GameThread] INFO  io.xeros.GameThread - Status [runtime=18m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=318.8 MB/723 MB]
+20:45:52.867 [GameThread] INFO  io.xeros.GameThread - Status [runtime=19m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=505.3 MB/723 MB]
+20:46:22.881 [GameThread] INFO  io.xeros.GameThread - Status [runtime=19m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=362.8 MB/723 MB]
+20:46:52.898 [GameThread] INFO  io.xeros.GameThread - Status [runtime=20m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=550.3 MB/723 MB]
+20:47:22.901 [GameThread] INFO  io.xeros.GameThread - Status [runtime=20m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=412.3 MB/723 MB]
+20:47:52.916 [GameThread] INFO  io.xeros.GameThread - Status [runtime=21m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=602.3 MB/723 MB]
+20:48:22.926 [GameThread] INFO  io.xeros.GameThread - Status [runtime=21m 30s, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=460.3 MB/723 MB]
+20:48:52.942 [GameThread] INFO  io.xeros.GameThread - Status [runtime=22m, connections=2, players=2, uniques=2, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=325.3 MB/723 MB]
+20:49:22.958 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+20:49:22.960 [GameThread] INFO  io.xeros.GameThread - Status [runtime=22m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=512.4 MB/723 MB]
+20:49:52.988 [GameThread] INFO  io.xeros.GameThread - Status [runtime=23m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=427.1 MB/723 MB]
+20:50:22.997 [GameThread] INFO  io.xeros.GameThread - Status [runtime=23m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=619.1 MB/723 MB]
+20:50:53.006 [GameThread] INFO  io.xeros.GameThread - Status [runtime=24m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=475.4 MB/723 MB]
+20:51:23.010 [GameThread] INFO  io.xeros.GameThread - Status [runtime=24m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=332.9 MB/723 MB]
+20:51:53.027 [GameThread] INFO  io.xeros.GameThread - Status [runtime=25m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=520.4 MB/723 MB]
+20:52:23.041 [GameThread] INFO  io.xeros.GameThread - Status [runtime=25m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=377.4 MB/723 MB]
+20:52:53.054 [GameThread] INFO  io.xeros.GameThread - Status [runtime=26m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=564.9 MB/723 MB]
+20:53:23.063 [GameThread] INFO  io.xeros.GameThread - Status [runtime=26m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=421.9 MB/723 MB]
+20:53:53.074 [GameThread] INFO  io.xeros.GameThread - Status [runtime=27m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=608.9 MB/723 MB]
+20:54:23.082 [GameThread] INFO  io.xeros.GameThread - Status [runtime=27m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=465.9 MB/723 MB]
+20:54:53.091 [GameThread] INFO  io.xeros.GameThread - Status [runtime=28m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=323.4 MB/723 MB]
+20:55:23.107 [GameThread] INFO  io.xeros.GameThread - Status [runtime=28m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=510.4 MB/723 MB]
+20:55:53.119 [GameThread] INFO  io.xeros.GameThread - Status [runtime=29m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=367.9 MB/723 MB]
+20:56:23.134 [GameThread] INFO  io.xeros.GameThread - Status [runtime=29m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=554.9 MB/723 MB]
+20:56:53.147 [GameThread] INFO  io.xeros.GameThread - Status [runtime=30m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=412.4 MB/723 MB]
+20:57:23.157 [GameThread] INFO  io.xeros.GameThread - Status [runtime=30m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=598.4 MB/723 MB]
+20:57:53.176 [GameThread] INFO  io.xeros.GameThread - Status [runtime=31m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=457.4 MB/723 MB]
+20:58:23.191 [GameThread] INFO  io.xeros.GameThread - Status [runtime=31m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=644.4 MB/723 MB]
+20:58:53.203 [GameThread] INFO  io.xeros.GameThread - Status [runtime=32m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=502.4 MB/723 MB]
+20:59:23.218 [GameThread] INFO  io.xeros.GameThread - Status [runtime=32m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=360.9 MB/723 MB]
+20:59:53.227 [GameThread] INFO  io.xeros.GameThread - Status [runtime=33m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=547.4 MB/723 MB]
+21:00:23.237 [GameThread] INFO  io.xeros.GameThread - Status [runtime=33m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=404 MB/723 MB]
+21:00:53.271 [GameThread] INFO  io.xeros.GameThread - Status [runtime=34m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=591.5 MB/723 MB]
+21:01:23.365 [GameThread] INFO  io.xeros.GameThread - Status [runtime=34m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=450 MB/723 MB]
+21:01:53.378 [GameThread] INFO  io.xeros.GameThread - Status [runtime=35m, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=636.5 MB/723 MB]
+21:02:23.387 [GameThread] INFO  io.xeros.GameThread - Status [runtime=35m 30s, connections=2, players=2, uniques=2, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=494 MB/723 MB]
+21:02:26.995 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+21:02:26.998 [GameThread] INFO  io.xeros.model.entity.player.Player - Tr1lla is logging out..
+21:02:26.999 [player-save-0] DEBUG i.x.m.entity.player.save.PlayerSave - Saving game for player[loginName=tr1lla, displayName=tr1lla, ip=26.52.161.80, mac=D0-37-45-E3-9C-C0, uuid=ad5bb12c-ec9e-4532-9bc9-98a33f1c3075]
+21:02:27.589 [GameThread] INFO  i.x.m.entity.player.PlayerHandler - Logged out 'tr1lla', 0 in queue.
+21:02:53.397 [GameThread] INFO  io.xeros.GameThread - Status [runtime=36m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=351 MB/723 MB]
+21:03:23.410 [GameThread] INFO  io.xeros.GameThread - Status [runtime=36m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=536 MB/723 MB]
+21:03:53.426 [GameThread] INFO  io.xeros.GameThread - Status [runtime=37m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=394 MB/723 MB]
+21:04:23.438 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=33730, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+21:04:23.443 [GameThread] INFO  io.xeros.GameThread - Status [runtime=37m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=589.1 MB/723 MB]
+21:04:53.450 [GameThread] INFO  io.xeros.GameThread - Status [runtime=38m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=454 MB/723 MB]
+21:05:23.460 [GameThread] INFO  io.xeros.GameThread - Status [runtime=38m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=641 MB/723 MB]
+21:05:53.471 [GameThread] INFO  io.xeros.GameThread - Status [runtime=39m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=497.5 MB/723 MB]
+21:06:23.486 [GameThread] INFO  io.xeros.GameThread - Status [runtime=39m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=354.5 MB/723 MB]
+21:06:53.499 [GameThread] INFO  io.xeros.GameThread - Status [runtime=40m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=540.5 MB/723 MB]
+21:07:23.511 [GameThread] INFO  io.xeros.GameThread - Status [runtime=40m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=397 MB/723 MB]
+21:07:53.520 [GameThread] INFO  io.xeros.GameThread - Status [runtime=41m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=582 MB/723 MB]
+21:08:23.534 [GameThread] INFO  io.xeros.GameThread - Status [runtime=41m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=441 MB/723 MB]
+21:08:53.542 [GameThread] INFO  io.xeros.GameThread - Status [runtime=42m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=626.5 MB/723 MB]
+21:09:23.548 [GameThread] INFO  io.xeros.GameThread - Status [runtime=42m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=482 MB/723 MB]
+21:09:53.565 [GameThread] INFO  io.xeros.GameThread - Status [runtime=43m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=340 MB/723 MB]
+21:10:23.581 [GameThread] INFO  io.xeros.GameThread - Status [runtime=43m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=525.5 MB/723 MB]
+21:10:53.609 [GameThread] INFO  io.xeros.GameThread - Status [runtime=44m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=383.5 MB/723 MB]
+21:11:23.626 [GameThread] INFO  io.xeros.GameThread - Status [runtime=44m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=569.5 MB/723 MB]
+21:11:53.637 [GameThread] INFO  io.xeros.GameThread - Status [runtime=45m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=439 MB/723 MB]
+21:12:23.651 [GameThread] INFO  io.xeros.GameThread - Status [runtime=45m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=626.5 MB/723 MB]
+21:12:53.665 [GameThread] INFO  io.xeros.GameThread - Status [runtime=46m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=491.5 MB/723 MB]
+21:13:23.675 [GameThread] INFO  io.xeros.GameThread - Status [runtime=46m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=348.6 MB/723 MB]
+21:13:53.692 [GameThread] INFO  io.xeros.GameThread - Status [runtime=47m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=539.6 MB/723 MB]
+21:14:23.705 [GameThread] INFO  io.xeros.GameThread - Status [runtime=47m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=403.1 MB/723 MB]
+21:14:53.715 [GameThread] INFO  io.xeros.GameThread - Status [runtime=48m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=587.6 MB/723 MB]
+21:15:23.727 [GameThread] INFO  io.xeros.GameThread - Status [runtime=48m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=444.6 MB/723 MB]
+21:15:53.739 [GameThread] INFO  io.xeros.GameThread - Status [runtime=49m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=630.1 MB/723 MB]
+21:16:23.754 [GameThread] INFO  io.xeros.GameThread - Status [runtime=49m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=488.1 MB/723 MB]
+21:16:53.768 [GameThread] INFO  io.xeros.GameThread - Status [runtime=50m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=345.1 MB/723 MB]
+21:17:23.780 [GameThread] INFO  io.xeros.GameThread - Status [runtime=50m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=540.1 MB/723 MB]
+21:17:53.795 [GameThread] INFO  io.xeros.GameThread - Status [runtime=51m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=398.1 MB/723 MB]
+21:18:23.809 [GameThread] INFO  io.xeros.GameThread - Status [runtime=51m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=584.6 MB/723 MB]
+21:18:53.824 [GameThread] INFO  io.xeros.GameThread - Status [runtime=52m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=441.6 MB/723 MB]
+21:19:23.842 [GameThread] INFO  io.xeros.GameThread - Status [runtime=52m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=631.7 MB/723 MB]
+21:19:53.858 [GameThread] INFO  io.xeros.GameThread - Status [runtime=53m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=489.1 MB/723 MB]
+21:20:23.871 [GameThread] INFO  io.xeros.GameThread - Status [runtime=53m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=346.1 MB/723 MB]
+21:20:53.884 [GameThread] INFO  io.xeros.GameThread - Status [runtime=54m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=531.1 MB/723 MB]
+21:21:23.895 [GameThread] INFO  io.xeros.GameThread - Status [runtime=54m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=389.1 MB/723 MB]
+21:21:53.909 [GameThread] INFO  io.xeros.GameThread - Status [runtime=55m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=575.1 MB/723 MB]
+21:22:23.927 [GameThread] INFO  io.xeros.GameThread - Status [runtime=55m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=432.6 MB/723 MB]
+21:22:53.943 [GameThread] INFO  io.xeros.GameThread - Status [runtime=56m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=618.6 MB/723 MB]
+21:23:23.956 [GameThread] INFO  io.xeros.GameThread - Status [runtime=56m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=477.1 MB/723 MB]
+21:23:53.973 [GameThread] INFO  io.xeros.GameThread - Status [runtime=57m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=335.1 MB/723 MB]
+21:24:23.988 [GameThread] INFO  io.xeros.GameThread - Status [runtime=57m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=521.1 MB/723 MB]
+21:24:54.002 [GameThread] INFO  io.xeros.GameThread - Status [runtime=58m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=379.1 MB/723 MB]
+21:25:24.011 [GameThread] INFO  io.xeros.GameThread - Status [runtime=58m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=564.1 MB/723 MB]
+21:25:54.021 [GameThread] INFO  io.xeros.GameThread - Status [runtime=59m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=422.1 MB/723 MB]
+21:26:24.044 [GameThread] INFO  io.xeros.GameThread - Status [runtime=59m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=607.6 MB/723 MB]
+21:26:54.050 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=463.6 MB/723 MB]
+21:27:24.065 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 00m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=320.6 MB/723 MB]
+21:27:54.082 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 01m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=506.1 MB/723 MB]
+21:28:24.095 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 01m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=363.1 MB/723 MB]
+21:28:54.117 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 02m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=549.6 MB/723 MB]
+21:29:24.125 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 02m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=407.1 MB/723 MB]
+21:29:54.138 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 03m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=593.1 MB/723 MB]
+21:30:24.150 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 03m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=450.1 MB/723 MB]
+21:30:54.161 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 04m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=636.1 MB/723 MB]
+21:31:24.170 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 04m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=493.6 MB/723 MB]
+21:31:54.183 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 05m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=351.1 MB/723 MB]
+21:32:24.190 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 05m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=536.1 MB/723 MB]
+21:32:54.206 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 06m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=393.6 MB/723 MB]
+21:33:24.215 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 06m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=578.6 MB/723 MB]
+21:33:54.223 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 07m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=435.1 MB/723 MB]
+21:34:24.235 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+21:34:24.236 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 07m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=620.2 MB/723 MB]
+21:34:54.248 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 08m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=478.6 MB/723 MB]
+21:35:24.264 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 08m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=336.1 MB/723 MB]
+21:35:54.277 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 09m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=522.1 MB/723 MB]
+21:36:24.289 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 09m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=380.2 MB/723 MB]
+21:36:54.303 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 10m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=565.7 MB/723 MB]
+21:37:24.314 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 10m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=423.2 MB/723 MB]
+21:37:54.330 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 11m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=609.7 MB/723 MB]
+21:38:24.345 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 11m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=467.7 MB/723 MB]
+21:38:54.356 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 12m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=325.7 MB/723 MB]
+21:39:24.367 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 12m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=510.7 MB/723 MB]
+21:39:54.383 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 13m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=368.7 MB/723 MB]
+21:40:24.394 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 13m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=554.1 MB/723 MB]
+21:40:54.407 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 14m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=412.2 MB/723 MB]
+21:41:24.420 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 14m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=596.7 MB/723 MB]
+21:41:54.429 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 15m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=454.7 MB/723 MB]
+21:42:24.443 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 15m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=640.2 MB/723 MB]
+21:42:54.455 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 16m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=498.2 MB/723 MB]
+21:43:24.469 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 16m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=355.7 MB/723 MB]
+21:43:54.477 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 17m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=540.7 MB/723 MB]
+21:44:24.493 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 17m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=398.7 MB/723 MB]
+21:44:54.508 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 18m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=584.7 MB/723 MB]
+21:45:24.519 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 18m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=447.7 MB/723 MB]
+21:45:54.528 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 19m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=641.2 MB/723 MB]
+21:46:24.543 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 19m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=505.7 MB/723 MB]
+21:46:54.557 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 20m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=364.7 MB/723 MB]
+21:47:24.568 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 20m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=550.2 MB/723 MB]
+21:47:54.578 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 21m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=407.2 MB/723 MB]
+21:48:24.592 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 21m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=592.7 MB/723 MB]
+21:48:54.608 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 22m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=450.7 MB/723 MB]
+21:49:24.617 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=33730, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+21:49:24.619 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 22m 30s, connections=1, players=1, uniques=1, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=636.3 MB/723 MB]
+21:49:54.633 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 23m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=493.2 MB/723 MB]
+21:50:24.646 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 23m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=350.2 MB/723 MB]
+21:50:54.660 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 24m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=536.2 MB/723 MB]
+21:51:24.675 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 24m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=394.2 MB/723 MB]
+21:51:54.690 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 25m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=579.7 MB/723 MB]
+21:52:24.704 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 25m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=437.2 MB/723 MB]
+21:52:54.724 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 26m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=622.7 MB/723 MB]
+21:53:24.730 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 26m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=479.7 MB/723 MB]
+21:53:54.739 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 27m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=336.7 MB/723 MB]
+21:54:24.755 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 27m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=522.7 MB/723 MB]
+21:54:54.769 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 28m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=382.7 MB/723 MB]
+21:55:24.779 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 28m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=574.2 MB/723 MB]
+21:55:54.793 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 29m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=436.8 MB/723 MB]
+21:56:24.807 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 29m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=634.3 MB/723 MB]
+21:56:54.821 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 30m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=497.3 MB/723 MB]
+21:57:24.834 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 30m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=355.8 MB/723 MB]
+21:57:54.843 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 31m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=540.8 MB/723 MB]
+21:58:24.859 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 31m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=401.8 MB/723 MB]
+21:58:54.870 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 32m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=595.3 MB/723 MB]
+21:59:24.893 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 32m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=458.8 MB/723 MB]
+21:59:54.908 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 33m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=321.3 MB/723 MB]
+22:00:24.934 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 33m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=512.8 MB/723 MB]
+22:00:54.956 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 34m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=372.3 MB/723 MB]
+22:01:24.976 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 34m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=557.3 MB/723 MB]
+22:01:54.986 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 35m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=420.3 MB/723 MB]
+22:02:24.998 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 35m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=605.8 MB/723 MB]
+22:02:55.007 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 36m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=462.8 MB/723 MB]
+22:03:25.018 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 36m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=319.8 MB/723 MB]
+22:03:55.029 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 37m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=505.8 MB/723 MB]
+22:04:25.039 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 37m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=363.4 MB/723 MB]
+22:04:55.055 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 38m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=555.3 MB/723 MB]
+22:05:25.069 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 38m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=418.3 MB/723 MB]
+22:05:55.080 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 39m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=610.3 MB/723 MB]
+22:06:25.093 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 39m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=471.8 MB/723 MB]
+22:06:55.105 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 40m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=329.8 MB/723 MB]
+22:07:25.114 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 40m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=515.8 MB/723 MB]
+22:07:55.143 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 41m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=374.3 MB/723 MB]
+22:08:25.154 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 41m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=559.3 MB/723 MB]
+22:08:55.172 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 42m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=416.3 MB/723 MB]
+22:09:25.179 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 42m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=600.8 MB/723 MB]
+22:09:55.198 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 43m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=458.3 MB/723 MB]
+22:10:25.216 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 43m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=642.8 MB/723 MB]
+22:10:55.229 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 44m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=499.8 MB/723 MB]
+22:11:25.246 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 44m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=357.8 MB/723 MB]
+22:11:55.259 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 45m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=543.8 MB/723 MB]
+22:12:25.269 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 45m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=400.8 MB/723 MB]
+22:12:55.277 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 46m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=585.3 MB/723 MB]
+22:13:25.288 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 46m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=443.3 MB/723 MB]
+22:13:55.318 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 47m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=628.8 MB/723 MB]
+22:14:25.339 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 47m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=487.3 MB/723 MB]
+22:14:55.357 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 48m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=344.8 MB/723 MB]
+22:15:25.369 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 48m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=530.3 MB/723 MB]
+22:15:55.397 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 49m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=388.3 MB/723 MB]
+22:16:25.414 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 49m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=574.3 MB/723 MB]
+22:16:55.426 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 50m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=432.3 MB/723 MB]
+22:17:25.443 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 50m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=618.3 MB/723 MB]
+22:17:55.461 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 51m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=475.8 MB/723 MB]
+22:18:25.476 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 51m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=333.8 MB/723 MB]
+22:18:55.500 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 52m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=520.3 MB/723 MB]
+22:19:25.519 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+22:19:25.523 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 52m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=378.4 MB/723 MB]
+22:19:55.538 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 53m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=564.3 MB/723 MB]
+22:20:25.570 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 53m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=423.8 MB/723 MB]
+22:20:55.583 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 54m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=610.3 MB/723 MB]
+22:21:25.604 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 54m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=468.8 MB/723 MB]
+22:21:55.616 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 55m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=325.8 MB/723 MB]
+22:22:25.636 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 55m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=510.8 MB/723 MB]
+22:22:55.649 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 56m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=368.3 MB/723 MB]
+22:23:25.666 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 56m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=554.8 MB/723 MB]
+22:23:55.676 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 57m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=412.3 MB/723 MB]
+22:24:25.713 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 57m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=598.8 MB/723 MB]
+22:24:55.727 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 58m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=456.3 MB/723 MB]
+22:25:25.745 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 58m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=641.8 MB/723 MB]
+22:25:55.761 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 59m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=500.9 MB/723 MB]
+22:26:25.770 [GameThread] INFO  io.xeros.GameThread - Status [runtime=1h 59m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=359.4 MB/723 MB]
+22:26:55.780 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=544.4 MB/723 MB]
+22:27:25.793 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 00m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=401.9 MB/723 MB]
+22:27:55.807 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 01m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=587.4 MB/723 MB]
+22:28:25.822 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 01m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=444.4 MB/723 MB]
+22:28:55.841 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 02m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=630.9 MB/723 MB]
+22:29:25.853 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 02m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=488.4 MB/723 MB]
+22:29:55.866 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 03m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=345.4 MB/723 MB]
+22:30:25.876 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 03m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=530.9 MB/723 MB]
+22:30:55.885 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 04m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=387.4 MB/723 MB]
+22:31:25.906 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 04m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=572.9 MB/723 MB]
+22:31:55.921 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 05m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=429.9 MB/723 MB]
+22:32:25.934 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 05m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=615.4 MB/723 MB]
+22:32:55.946 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 06m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=472.9 MB/723 MB]
+22:33:25.965 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 06m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=329.9 MB/723 MB]
+22:33:55.985 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 07m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=515.4 MB/723 MB]
+22:34:25.991 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=33730, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+22:34:25.993 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 07m 30s, connections=1, players=1, uniques=1, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=372.4 MB/723 MB]
+22:34:56.001 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 08m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=556.9 MB/723 MB]
+22:35:26.014 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 08m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=414.4 MB/723 MB]
+22:35:56.027 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 09m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=599.9 MB/723 MB]
+22:36:26.038 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 09m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=457.4 MB/723 MB]
+22:36:56.051 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 10m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=642.9 MB/723 MB]
+22:37:26.063 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 10m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=500.4 MB/723 MB]
+22:37:56.078 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 11m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=358.4 MB/723 MB]
+22:38:26.121 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 11m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=544.4 MB/723 MB]
+22:38:56.133 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 12m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=401.9 MB/723 MB]
+22:39:26.162 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 12m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=587.4 MB/723 MB]
+22:39:56.173 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 13m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=444.9 MB/723 MB]
+22:40:26.183 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 13m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=629.4 MB/723 MB]
+22:40:56.195 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 14m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=487.4 MB/723 MB]
+22:41:26.227 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 14m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=344.9 MB/723 MB]
+22:41:56.253 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 15m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=530.4 MB/723 MB]
+22:41:56.871 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to CoX Party, io.xeros.content.minigames.raids.CoxPartyFormAreaController@672c6809
+22:42:26.266 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 15m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=388.4 MB/723 MB]
+22:42:56.278 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 16m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=573.4 MB/723 MB]
+22:43:26.291 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 16m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=430.4 MB/723 MB]
+22:43:56.300 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 17m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=614.9 MB/723 MB]
+22:44:26.317 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 17m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=472.9 MB/723 MB]
+22:44:56.343 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 18m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=330.4 MB/723 MB]
+22:45:26.357 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 18m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=515.9 MB/723 MB]
+22:45:56.370 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 19m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=373.4 MB/723 MB]
+22:46:26.393 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 19m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=558.9 MB/723 MB]
+22:46:56.408 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 20m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=415.9 MB/723 MB]
+22:47:26.419 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 20m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=600.9 MB/723 MB]
+22:47:56.433 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 21m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=458.9 MB/723 MB]
+22:48:26.446 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 21m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=643.9 MB/723 MB]
+22:48:56.461 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 22m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=501.4 MB/723 MB]
+22:49:26.476 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 22m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=359 MB/723 MB]
+22:49:56.493 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 23m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=544.4 MB/723 MB]
+22:50:26.515 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 23m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=402.4 MB/723 MB]
+22:50:56.524 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 24m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=587.4 MB/723 MB]
+22:51:26.533 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 24m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=444.4 MB/723 MB]
+22:51:56.542 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 25m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=629.9 MB/723 MB]
+22:52:26.550 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 25m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=486.9 MB/723 MB]
+22:52:56.569 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 26m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=344.4 MB/723 MB]
+22:53:26.583 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 26m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=529.9 MB/723 MB]
+22:53:56.598 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 27m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=387.9 MB/723 MB]
+22:54:06.806 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@36d7460
+22:54:26.615 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 27m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=580.4 MB/723 MB]
+22:54:56.626 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 28m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=444.4 MB/723 MB]
+22:55:26.636 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 28m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=629.9 MB/723 MB]
+22:55:56.653 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 29m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=486.9 MB/723 MB]
+22:56:26.674 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 29m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=344.4 MB/723 MB]
+22:56:56.689 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 30m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=530.9 MB/723 MB]
+22:57:26.704 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 30m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=387.9 MB/723 MB]
+22:57:56.729 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 31m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=573.4 MB/723 MB]
+22:58:26.737 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 31m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=431.4 MB/723 MB]
+22:58:56.759 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 32m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=616.9 MB/723 MB]
+22:59:26.775 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 32m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=474.9 MB/723 MB]
+22:59:56.789 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 33m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=331.9 MB/723 MB]
+23:00:26.820 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 33m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=517.9 MB/723 MB]
+23:00:56.854 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 34m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=375.9 MB/723 MB]
+23:01:26.941 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 34m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=561.9 MB/723 MB]
+23:01:56.956 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 35m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=419.4 MB/723 MB]
+23:02:26.967 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 35m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=605.9 MB/723 MB]
+23:02:56.984 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 36m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=463.9 MB/723 MB]
+23:03:26.998 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 36m 30s, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=321.4 MB/723 MB]
+23:03:57.019 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 37m, connections=1, players=1, uniques=1, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=506.9 MB/723 MB]
+23:04:27.035 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+23:04:27.037 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 37m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=364 MB/723 MB]
+23:04:57.041 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 38m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=549.4 MB/723 MB]
+23:05:27.050 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 38m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=405.9 MB/723 MB]
+23:05:57.067 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 39m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=592.4 MB/723 MB]
+23:06:09.820 [pool-8-thread-3] DEBUG io.xeros.net.login.RS2LoginProtocol - Player tr1lla has no pending captcha.
+23:06:09.907 [pool-8-thread-3] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+23:06:09.908 [pool-8-thread-3] DEBUG io.xeros.net.login.RS2LoginProtocol - Set "tr1lla" display name to "tr1lla".
+23:06:09.909 [pool-8-thread-3] INFO  io.xeros.net.login.RS2LoginProtocol - Player login queued [name=tr1lla, mac=D0-37-45-E3-9C-C0, ip=26.52.161.80:49712, time=97ms]
+23:06:10.276 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@36d7460
+23:06:10.329 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+23:06:27.086 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 39m 30s, connections=2, players=2, uniques=2, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=453.4 MB/723 MB]
+23:06:34.895 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+23:06:34.896 [GameThread] INFO  io.xeros.model.entity.player.Player - Tr1lla is logging out..
+23:06:34.900 [player-save-0] DEBUG i.x.m.entity.player.save.PlayerSave - Saving game for player[loginName=tr1lla, displayName=tr1lla, ip=26.52.161.80, mac=D0-37-45-E3-9C-C0, uuid=ad5bb12c-ec9e-4532-9bc9-98a33f1c3075]
+23:06:35.489 [GameThread] INFO  i.x.m.entity.player.PlayerHandler - Logged out 'tr1lla', 0 in queue.
+23:06:57.107 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 40m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=639.4 MB/723 MB]
+23:07:02.913 [pool-8-thread-4] DEBUG io.xeros.net.login.RS2LoginProtocol - Player tr1lla has no pending captcha.
+23:07:02.990 [pool-8-thread-4] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+23:07:02.991 [pool-8-thread-4] DEBUG io.xeros.net.login.RS2LoginProtocol - Set "tr1lla" display name to "tr1lla".
+23:07:02.991 [pool-8-thread-4] INFO  io.xeros.net.login.RS2LoginProtocol - Player login queued [name=tr1lla, mac=D0-37-45-E3-9C-C0, ip=26.52.161.80:49740, time=80ms]
+23:07:03.108 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@36d7460
+23:07:03.110 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+23:07:14.515 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+23:07:14.515 [GameThread] INFO  io.xeros.model.entity.player.Player - Tr1lla is logging out..
+23:07:14.515 [player-save-0] DEBUG i.x.m.entity.player.save.PlayerSave - Saving game for player[loginName=tr1lla, displayName=tr1lla, ip=26.52.161.80, mac=D0-37-45-E3-9C-C0, uuid=ad5bb12c-ec9e-4532-9bc9-98a33f1c3075]
+23:07:15.114 [GameThread] INFO  i.x.m.entity.player.PlayerHandler - Logged out 'tr1lla', 0 in queue.
+23:07:27.121 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 40m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=499.7 MB/723 MB]
+23:07:57.143 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 41m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=358.9 MB/723 MB]
+23:08:27.145 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 41m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=543.4 MB/723 MB]
+23:08:57.160 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 42m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=400.4 MB/723 MB]
+23:09:00.621 [pool-8-thread-5] DEBUG io.xeros.net.login.RS2LoginProtocol - Player tr1lla has no pending captcha.
+23:09:00.692 [pool-8-thread-5] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+23:09:00.692 [pool-8-thread-5] DEBUG io.xeros.net.login.RS2LoginProtocol - Set "tr1lla" display name to "tr1lla".
+23:09:00.693 [pool-8-thread-5] INFO  io.xeros.net.login.RS2LoginProtocol - Player login queued [name=tr1lla, mac=D0-37-45-E3-9C-C0, ip=26.52.161.80:49830, time=74ms]
+23:09:00.762 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@36d7460
+23:09:00.765 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+23:09:10.963 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+23:09:10.963 [GameThread] INFO  io.xeros.model.entity.player.Player - Tr1lla is logging out..
+23:09:10.963 [player-save-0] DEBUG i.x.m.entity.player.save.PlayerSave - Saving game for player[loginName=tr1lla, displayName=tr1lla, ip=26.52.161.80, mac=D0-37-45-E3-9C-C0, uuid=ad5bb12c-ec9e-4532-9bc9-98a33f1c3075]
+23:09:11.566 [GameThread] INFO  i.x.m.entity.player.PlayerHandler - Logged out 'tr1lla', 0 in queue.
+23:09:27.171 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 42m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=588.4 MB/723 MB]
+23:09:30.096 [pool-8-thread-6] DEBUG io.xeros.net.login.RS2LoginProtocol - Player tr1lla has no pending captcha.
+23:09:30.166 [pool-8-thread-6] INFO  io.xeros.net.login.RS2LoginProtocol - Display names are disabled, using login name as display name.
+23:09:30.166 [pool-8-thread-6] DEBUG io.xeros.net.login.RS2LoginProtocol - Set "tr1lla" display name to "tr1lla".
+23:09:30.166 [pool-8-thread-6] INFO  io.xeros.net.login.RS2LoginProtocol - Player login queued [name=tr1lla, mac=D0-37-45-E3-9C-C0, ip=26.52.161.80:49852, time=73ms]
+23:09:30.170 [GameThread] DEBUG io.xeros.model.entity.player.Player - Set controller to standard, io.xeros.model.controller.DefaultController@36d7460
+23:09:30.172 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+23:09:51.787 [GameThread] DEBUG i.x.c.privatemessaging.FriendsList - Update online status for tr1lla on rad friends list.
+23:09:51.787 [GameThread] INFO  io.xeros.model.entity.player.Player - Tr1lla is logging out..
+23:09:51.787 [player-save-0] DEBUG i.x.m.entity.player.save.PlayerSave - Saving game for player[loginName=tr1lla, displayName=tr1lla, ip=26.52.161.80, mac=D0-37-45-E3-9C-C0, uuid=ad5bb12c-ec9e-4532-9bc9-98a33f1c3075]
+23:09:52.389 [GameThread] INFO  i.x.m.entity.player.PlayerHandler - Logged out 'tr1lla', 0 in queue.
+23:09:57.190 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 43m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=449.4 MB/723 MB]
+23:10:27.197 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 43m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=634.4 MB/723 MB]
+23:10:57.210 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 44m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=492.8 MB/723 MB]
+23:11:27.227 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 44m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=350.8 MB/723 MB]
+23:11:57.255 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 45m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=536.8 MB/723 MB]
+23:12:27.286 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 45m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=395.8 MB/723 MB]
+23:12:57.295 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 46m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=582.3 MB/723 MB]
+23:13:27.307 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 46m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=441.8 MB/723 MB]
+23:13:57.335 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 47m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=627.3 MB/723 MB]
+23:14:27.349 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 47m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=486.3 MB/723 MB]
+23:14:57.371 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 48m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=346.3 MB/723 MB]
+23:15:27.389 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 48m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=531.8 MB/723 MB]
+23:15:57.413 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 49m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=390.8 MB/723 MB]
+23:16:27.420 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 49m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=575.3 MB/723 MB]
+23:16:57.450 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 50m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=435.9 MB/723 MB]
+23:17:27.476 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 50m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=620.9 MB/723 MB]
+23:17:57.487 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 51m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=480.4 MB/723 MB]
+23:18:27.499 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 51m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=339.9 MB/723 MB]
+23:18:57.506 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 52m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=524.4 MB/723 MB]
+23:19:27.522 [GameThread] DEBUG i.x.m.world.objects.GlobalObjects - Add object GlobalObject{id=33730, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+23:19:27.523 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 52m 30s, connections=1, players=1, uniques=1, npcs=3294, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=384 MB/723 MB]
+23:19:57.562 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 53m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=569.4 MB/723 MB]
+23:20:27.596 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 53m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=428.9 MB/723 MB]
+23:20:57.607 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 54m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=613.9 MB/723 MB]
+23:21:27.618 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 54m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=472.9 MB/723 MB]
+23:21:57.633 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 55m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=333.4 MB/723 MB]
+23:22:27.640 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 55m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=518.4 MB/723 MB]
+23:22:57.650 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 56m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=376.9 MB/723 MB]
+23:23:27.666 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 56m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=562.4 MB/723 MB]
+23:23:57.675 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 57m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=422.4 MB/723 MB]
+23:24:27.688 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 57m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=607.9 MB/723 MB]
+23:24:57.704 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 58m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=467.4 MB/723 MB]
+23:25:27.716 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 58m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=327.4 MB/723 MB]
+23:25:57.725 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 59m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=511.9 MB/723 MB]
+23:26:27.744 [GameThread] INFO  io.xeros.GameThread - Status [runtime=2h 59m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=371.9 MB/723 MB]
+23:26:57.759 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=556.9 MB/723 MB]
+23:27:27.779 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 00m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=416.4 MB/723 MB]
+23:27:57.800 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 01m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=601.9 MB/723 MB]
+23:28:27.825 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 01m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=460.9 MB/723 MB]
+23:28:57.840 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 02m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=645.9 MB/723 MB]
+23:29:27.853 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 02m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=504.4 MB/723 MB]
+23:29:57.863 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 03m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=363.4 MB/723 MB]
+23:30:27.872 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 03m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=548.4 MB/723 MB]
+23:30:57.889 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 04m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=407.4 MB/723 MB]
+23:31:27.895 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 04m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=592.9 MB/723 MB]
+23:31:57.908 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 05m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=451.4 MB/723 MB]
+23:32:15.914 [GameThread] INFO  io.xeros.model.entity.player.Player - Rad is logging out..
+23:32:15.914 [player-save-0] DEBUG i.x.m.entity.player.save.PlayerSave - Saving game for player[loginName=rad, displayName=Rad, ip=127.0.0.1, mac=0C-9D-92-76-49-EE, uuid=fae89258-5bf2-4952-8230-0fc8025d972d]
+23:32:16.517 [GameThread] INFO  i.x.m.entity.player.PlayerHandler - Logged out 'rad', 0 in queue.
+23:32:27.920 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 05m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=636.4 MB/723 MB]
+23:32:57.928 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 06m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=493.9 MB/723 MB]
+23:33:27.945 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 06m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=351 MB/723 MB]
+23:33:57.954 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 07m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=535.4 MB/723 MB]
+23:34:27.975 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 07m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=392.5 MB/723 MB]
+23:34:57.973 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 08m, connections=0, players=0, uniques=0, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=576.9 MB/723 MB]
+23:35:27.989 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 08m 30s, connections=0, players=0, uniques=0, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=434.9 MB/723 MB]
+23:35:58.002 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 09m, connections=0, players=0, uniques=0, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=619.4 MB/723 MB]
+23:36:28.012 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 09m 30s, connections=0, players=0, uniques=0, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=476.9 MB/723 MB]
+23:36:58.026 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 10m, connections=0, players=0, uniques=0, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=334.4 MB/723 MB]
+23:37:28.040 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 10m 30s, connections=0, players=0, uniques=0, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=519.9 MB/723 MB]
+23:37:58.052 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 11m, connections=0, players=0, uniques=0, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=376.9 MB/723 MB]
+23:38:28.065 [GameThread] INFO  io.xeros.GameThread - Status [runtime=3h 11m 30s, connections=0, players=0, uniques=0, npcs=3292, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=561.9 MB/723 MB]

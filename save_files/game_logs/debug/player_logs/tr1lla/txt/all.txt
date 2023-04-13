@@ -1,0 +1,78 @@
+[ConnectionLog] [2023-04-12T20:25:16.5412624] Logged in
+[ConnectionLog] [2023-04-12T20:25:19.5431223] Logged in
+[ConnectionLog] [2023-04-12T20:25:33.9468402] Logged in
+[ConnectionLog] [2023-04-12T20:25:55.5600488] Logged in
+[ConnectionLog] [2023-04-12T20:26:57.0932773] Logged in
+[ClickButtonLog] [2023-04-12T20:27:03.7115712] Clicked: 94242, new: false
+[ClickButtonLog] [2023-04-12T20:27:06.7123763] Clicked: 9157, new: false
+[ClickButtonLog] [2023-04-12T20:27:11.5150534] Clicked: 9158, new: false
+[ClickButtonLog] [2023-04-12T20:27:13.9164478] Clicked: 9158, new: false
+[ClickButtonLog] [2023-04-12T20:27:16.9169529] Clicked: 9158, new: false
+[ClickButtonLog] [2023-04-12T20:27:18.7178736] Clicked: 9157, new: false
+[ClickObjectLog] [2023-04-12T20:27:49.9564783] Clicked object WorldObject{x=3092, y=3507, height=0, id=26801, type=10, face=2} option 1
+[ClickButtonLog] [2023-04-12T20:27:54.7575159] Clicked: 83158, new: false
+[ClickButtonLog] [2023-04-12T20:27:58.3596154] Clicked: 83163, new: false
+[ClickButtonLog] [2023-04-12T20:27:58.9601294] Clicked: 83166, new: false
+[ClickButtonLog] [2023-04-12T20:28:01.9683853] Clicked: 83177, new: false
+[ClickObjectLog] [2023-04-12T20:28:09.1671557] Clicked object WorldObject{x=3089, y=3508, height=0, id=10060, type=9, face=0} option 1
+[ClickObjectLog] [2023-04-12T20:28:09.1681607] Clicked object WorldObject{x=3089, y=3508, height=0, id=10060, type=9, face=0} option 1
+[ClickObjectLog] [2023-04-12T20:28:09.7667448] Clicked object WorldObject{x=3089, y=3508, height=0, id=10060, type=9, face=0} option 1
+[ClickObjectLog] [2023-04-12T20:28:09.7672421] Clicked object WorldObject{x=3089, y=3508, height=0, id=10060, type=9, face=0} option 1
+[ClickButtonLog] [2023-04-12T20:28:13.9770844] Clicked: 250002, new: false
+[ClickObjectLog] [2023-04-12T20:28:15.1771955] Clicked object WorldObject{x=3089, y=3508, height=0, id=10060, type=9, face=0} option 1
+[ClickButtonLog] [2023-04-12T20:28:17.5763153] Clicked: 74003, new: false
+[ClickButtonLog] [2023-04-12T20:28:19.3815898] Clicked: 84057, new: false
+[ClickButtonLog] [2023-04-12T20:28:20.5770556] Clicked: 196242, new: false
+[ClickButtonLog] [2023-04-12T20:28:22.3808725] Clicked: 84057, new: false
+[ClickButtonLog] [2023-04-12T20:28:22.9781359] Clicked: 84055, new: false
+[ClickButtonLog] [2023-04-12T20:28:24.1782856] Clicked: 84053, new: false
+[ClickButtonLog] [2023-04-12T20:28:25.9771493] Clicked: 84062, new: false
+[CommandLog] [2023-04-12T20:28:43.3873989] tr1lla typed command spawn at X: 3099 Y:3509
+[ClickButtonLog] [2023-04-12T20:28:44.5873151] Clicked: 102037, new: false
+[ClickButtonLog] [2023-04-12T20:29:18.8036772] Clicked: 13092, new: false
+[ClickButtonLog] [2023-04-12T20:29:26.0158383] Clicked: 13218, new: false
+[ClickObjectLog] [2023-04-12T20:30:16.437195] Clicked object WorldObject{x=3087, y=3507, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2023-04-12T20:30:16.437195] Clicked object WorldObject{x=3087, y=3507, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2023-04-12T20:30:23.0372571] Clicked: 59229, new: false
+[ClickObjectLog] [2023-04-12T20:32:06.2932203] Clicked object WorldObject{x=3087, y=3498, height=0, id=33320, type=10, face=0} option 1
+[ClickButtonLog] [2023-04-12T20:32:11.0935685] Clicked: 83158, new: false
+[ClickButtonLog] [2023-04-12T20:32:24.8989731] Clicked: 83158, new: false
+[ClickButtonLog] [2023-04-12T20:32:32.1043393] Clicked: 83158, new: false
+[ClickButtonLog] [2023-04-12T20:35:13.0042407] Clicked: 250002, new: false
+[ClickObjectLog] [2023-04-12T20:37:03.4464865] Clicked object WorldObject{x=3105, y=3495, height=0, id=39161, type=11, face=3} option 1
+[ClickButtonLog] [2023-04-12T20:37:42.465589] Clicked: 250002, new: false
+[ClickButtonLog] [2023-04-12T20:37:50.8706245] Clicked: 250002, new: false
+[ClickObjectLog] [2023-04-12T20:39:45.5165895] Clicked object WorldObject{x=3108, y=3516, height=0, id=2418, type=10, face=0} option 2
+[ClickObjectLog] [2023-04-12T20:39:47.3174222] Clicked object WorldObject{x=3104, y=3509, height=0, id=14367, type=10, face=2} option 2
+[ClickObjectLog] [2023-04-12T20:39:47.3174222] Clicked object WorldObject{x=3104, y=3509, height=0, id=14367, type=10, face=2} option 2
+[CommandLog] [2023-04-12T20:41:50.3819404] tr1lla typed command max at X: 3082 Y:3510
+[ClickButtonLog] [2023-04-12T20:41:53.9847278] Clicked: 250002, new: false
+[ClickButtonLog] [2023-04-12T20:41:54.58573] Clicked: 250002, new: false
+[ClickObjectLog] [2023-04-12T20:41:56.9869449] Clicked object WorldObject{x=3082, y=3507, height=0, id=26741, type=10, face=3} option 1
+[CommandLog] [2023-04-12T20:42:01.1901719] tr1lla typed command empty at X: 3082 Y:3508
+[EmptyInventoryLog] [2023-04-12T20:42:01.1906717] Emptied [SlottedItem{name=Bonus Xp Scroll, id=2841, amount=1}, SlottedItem{name=Experience Lamp, id=2528, amount=1}, SlottedItem{name=Vote Mystery Box, id=11739, amount=1}, SlottedItem{name=Teleport to house, id=8013, amount=50}, SlottedItem{name=Lobster, id=380, amount=100}, SlottedItem{name=Shark, id=386, amount=100}, SlottedItem{name=Iron scimitar, id=1323, amount=1}, SlottedItem{name=Rune scimitar, id=1333, amount=1}, SlottedItem{name=Iron full helm, id=1153, amount=1}, SlottedItem{name=Iron platebody, id=1115, amount=1}, SlottedItem{name=Iron platelegs, id=1067, amount=1}, SlottedItem{name=Wizard hat, id=579, amount=1}, SlottedItem{name=Wizard robe, id=577, amount=1}, SlottedItem{name=Blue skirt, id=1011, amount=1}, SlottedItem{name=Staff of air, id=1381, amount=1}, SlottedItem{name=Gloves, id=7458, amount=1}, SlottedItem{name=Coif, id=1169, amount=1}, SlottedItem{name=Leather body, id=1129, amount=1}, SlottedItem{name=Leather chaps, id=1095, amount=1}, SlottedItem{name=Iron knife, id=863, amount=100}, SlottedItem{name=Rune knife, id=868, amount=100}, SlottedItem{name=Mind rune, id=558, amount=100}, SlottedItem{name=Chaos rune, id=562, amount=100}, SlottedItem{name=Mithril seeds, id=299, amount=4,995}]
+[ClickObjectLog] [2023-04-12T20:42:02.9921564] Clicked object WorldObject{x=3082, y=3507, height=0, id=26741, type=10, face=3} option 1
+[CommandLog] [2023-04-12T20:42:10.1939991] tr1lla typed command outlast at X: 3082 Y:3508
+[ConnectionLog] [2023-04-12T23:06:10.275302] Logged in
+[ConnectionLog] [2023-04-12T23:07:03.1082915] Logged in
+[ConnectionLog] [2023-04-12T23:09:00.7626194] Logged in
+[ConnectionLog] [2023-04-12T23:09:30.170226] Logged in
+[ConnectionLog] [2023-04-13T00:00:15.9239463] Logged in
+[ClickObjectLog] [2023-04-13T00:00:26.1447545] Clicked object WorldObject{x=3087, y=3498, height=0, id=36062, type=10, face=0} option 1
+[ClickObjectLog] [2023-04-13T00:00:26.7322405] Clicked object WorldObject{x=3087, y=3498, height=0, id=36062, type=10, face=0} option 1
+[ConnectionLog] [2023-04-13T00:04:37.6494825] Logged in
+[ClickObjectLog] [2023-04-13T00:04:44.8513182] Clicked object WorldObject{x=3087, y=3498, height=0, id=36062, type=10, face=0} option 1
+[ClickObjectLog] [2023-04-13T00:04:51.4551477] Clicked object WorldObject{x=3087, y=3498, height=0, id=36062, type=10, face=0} option 2
+[ClickObjectLog] [2023-04-13T00:04:52.066831] Clicked object WorldObject{x=3087, y=3498, height=0, id=36062, type=10, face=0} option 1
+[CommandLog] [2023-04-13T00:04:57.472135] tr1lla typed command teleport at X: 3089 Y:3498
+[ClickObjectLog] [2023-04-13T00:05:01.0702237] Clicked object WorldObject{x=3087, y=3498, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2023-04-13T00:05:04.0761169] Clicked: 39721, new: true
+[ClickButtonLog] [2023-04-13T00:05:05.2744866] Clicked: 39731, new: true
+[ClickButtonLog] [2023-04-13T00:05:06.4735992] Clicked: 44750, new: true
+[CommandLog] [2023-04-13T00:05:11.2771579] tr1lla typed command teleport at X: 3093 Y:3493
+[ClickObjectLog] [2023-04-13T00:05:23.8817054] Clicked object WorldObject{x=3087, y=3498, height=0, id=36062, type=10, face=0} option 2
+[ClickObjectLog] [2023-04-13T00:06:10.0962919] Clicked object WorldObject{x=3082, y=3507, height=0, id=26741, type=10, face=3} option 1
+[ClickObjectLog] [2023-04-13T00:06:13.0999746] Clicked object WorldObject{x=3082, y=3507, height=0, id=26741, type=10, face=3} option 1
+[ClickButtonLog] [2023-04-13T00:06:14.3003631] Clicked: 9154, new: false
+[ConnectionLog] [2023-04-13T00:07:07.1257585] Logged in
+[ClickButtonLog] [2023-04-13T00:07:16.132963] Clicked: 9154, new: false
