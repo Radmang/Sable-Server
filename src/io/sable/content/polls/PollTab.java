@@ -1,4 +1,4 @@
-package io.sable.content.polls;
+package io.xeros.content.polls;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -15,10 +15,12 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
+import com.google.gson.JsonElement;
 import com.google.gson.reflect.TypeToken;
-import io.sable.Server;
-import io.sable.model.entity.player.Player;
-import io.sable.model.entity.player.Right;
+
+import io.xeros.Server;
+import io.xeros.model.entity.player.Player;
+import io.xeros.model.entity.player.Right;
 
 /**
  * @author Grant_ | www.rune-server.ee/members/grant_ | 2/10/20
@@ -36,11 +38,12 @@ public class PollTab {
      */
     public static void init() {
         try {
-            Path path = Paths.get(Server.getDataDirectory() + "/cfg/poll/polls_backup.json");
+            Path path = Paths.get(Server.getDataDirectory() + "/cfg/poll/poll.json");
             File file = path.toFile();
 
             JsonParser parser = new JsonParser();
             if (!file.exists()) {
+                System.out.println("R-ERROR: Couldn't find poll specified.");
                 return;
             }
 
@@ -78,14 +81,18 @@ public class PollTab {
         try {
             Path path = Paths.get(Server.getDataDirectory() + "/cfg/poll/poll.json");
             File file = path.toFile();
+            System.out.println("R-INFO: Path of poll: " + path); // TODO: fix polls not being read, it thinks file doesn't exist --Rad
+            System.out.println("R-INFO: File: " + file);
 
             JsonParser parser = new JsonParser();
             if (!file.exists()) {
+                System.out.println("R-ERROR: Couldn't find poll specified");
                 return;
             }
 
             Object obj = parser.parse(new FileReader(file));
             JsonObject jsonUpdates = (JsonObject) obj;
+
 
             Type listType = new TypeToken<Poll>() {
             }.getType();

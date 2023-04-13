@@ -1,0 +1,2 @@
+[FlowerpokerResultLog] [2023-04-12T16:31:05.4039006] Flower pokered: [tr1llaaa] (login name) planted [THREE OF A KIND] and I planted [ONE PAIR]
+[FlowerpokerResultLog] [2023-04-12T20:29:38.6242281] Flower pokered: [tr1lla] (login name) planted [ONE PAIR] and I planted [TWO PAIRS]
