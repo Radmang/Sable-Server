@@ -1,9 +1,9 @@
 package db.migration;
 
-import io.xeros.sql.DatabaseTable;
-import io.xeros.sql.eventcalendar.tables.EventCalendarBlacklistTable;
-import io.xeros.sql.eventcalendar.tables.EventCalendarParticipantsTable;
-import io.xeros.sql.eventcalendar.tables.EventCalendarWinnersTable;
+import io.sable.sql.DatabaseTable;
+import io.sable.sql.eventcalendar.tables.EventCalendarBlacklistTable;
+import io.sable.sql.eventcalendar.tables.EventCalendarParticipantsTable;
+import io.sable.sql.eventcalendar.tables.EventCalendarWinnersTable;
 import org.flywaydb.core.api.migration.BaseJavaMigration;
 import org.flywaydb.core.api.migration.Context;
 
